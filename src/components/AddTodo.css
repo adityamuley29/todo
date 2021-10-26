@@ -1,8 +1,11 @@
 .AddTodo{
     position: relative;
-    border: 2px solid red;
+    border: 2px solid grey;
+    padding: 20px;
+    margin: 20px;
     width: auto;
     height: auto;
+    border-radius: 2px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
